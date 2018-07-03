@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node main.js",
+    "watch": "node_modules/.bin/tsc -w",
+    "build": "node_modules/.bin/tsc"
+  },
+  "name": "sheets-csv-to-array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "@types/node": "^10.5.1"
+  }
+}
