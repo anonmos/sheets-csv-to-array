@@ -15,7 +15,7 @@ A tool to convert Google Sheets CSV exports to a JSON array.  Written in [TypeSc
 - See the file named after the string you put on line 5.
 - Enjoy the fruits of your labors, you wonderful human you.
 
-#License
+# License
 
 Fork this thing to your heart's content.  Make it yours.  Modify.  Edit.  Make it an npm library.  Then when half the internet is using it, [remove it like a boss](https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm).
 
