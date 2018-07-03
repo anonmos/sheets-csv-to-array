@@ -13,7 +13,7 @@ function main(): void {
   }
 
   stringContent = tokenizedStringContent.join(',')
-  stringContent = `[${tokenizedStringContent}]`
+  stringContent = `[${stringContent}]`
   fs.writeFileSync(path.join(__dirname, OUTPUT_FILE_NAME), stringContent)
 }
 
