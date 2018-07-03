@@ -9,7 +9,7 @@ A tool to convert Google Sheets CSV exports to a JSON array.  Written in [TypeSc
 - Install [yarn](https://yarnpkg.com/en/)
 - Run `nvm install`
 - Run `yarn install`
-- Update lines 4 and 5 with your file names
+- Update lines 4 and 5 with your file names in `main.ts`
 - Run `yarn run build` to magic `main.ts` into `main.js`
 - Run `yarn run start` to run the thing
 - See the file named after the string you put on line 5.
